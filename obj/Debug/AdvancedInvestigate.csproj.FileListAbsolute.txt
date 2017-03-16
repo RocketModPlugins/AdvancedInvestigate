@@ -1,0 +1,16 @@
+c:\users\harry\documents\visual studio 2015\Projects\AdvancedInvestigate\AdvancedInvestigate\obj\Debug\AdvancedInvestigate.csprojResolveAssemblyReference.cache
+C:\Users\Harry\Documents\Visual Studio 2015\Projects\AdvancedInvestigate\AdvancedInvestigate\bin\Debug\AdvancedInvestigate.dll
+C:\Users\Harry\Documents\Visual Studio 2015\Projects\AdvancedInvestigate\AdvancedInvestigate\bin\Debug\AdvancedInvestigate.pdb
+C:\Users\Harry\Documents\Visual Studio 2015\Projects\AdvancedInvestigate\AdvancedInvestigate\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Harry\Documents\Visual Studio 2015\Projects\AdvancedInvestigate\AdvancedInvestigate\bin\Debug\Assembly-CSharp.dll
+C:\Users\Harry\Documents\Visual Studio 2015\Projects\AdvancedInvestigate\AdvancedInvestigate\bin\Debug\Rocket.API.dll
+C:\Users\Harry\Documents\Visual Studio 2015\Projects\AdvancedInvestigate\AdvancedInvestigate\bin\Debug\Rocket.Core.dll
+C:\Users\Harry\Documents\Visual Studio 2015\Projects\AdvancedInvestigate\AdvancedInvestigate\bin\Debug\Rocket.Unturned.dll
+C:\Users\Harry\Documents\Visual Studio 2015\Projects\AdvancedInvestigate\AdvancedInvestigate\bin\Debug\UnityEngine.dll
+C:\Users\Harry\Documents\Visual Studio 2015\Projects\AdvancedInvestigate\AdvancedInvestigate\bin\Debug\Pathfinding.JsonFx.dll
+C:\Users\Harry\Documents\Visual Studio 2015\Projects\AdvancedInvestigate\AdvancedInvestigate\bin\Debug\Pathfinding.Ionic.Zip.Reduced.dll
+C:\Users\Harry\Documents\Visual Studio 2015\Projects\AdvancedInvestigate\AdvancedInvestigate\bin\Debug\Pathfinding.ClipperLib.dll
+C:\Users\Harry\Documents\Visual Studio 2015\Projects\AdvancedInvestigate\AdvancedInvestigate\bin\Debug\Pathfinding.Poly2Tri.dll
+C:\Users\Harry\Documents\Visual Studio 2015\Projects\AdvancedInvestigate\AdvancedInvestigate\bin\Debug\UnityEngine.CrashLog.dll
+C:\Users\Harry\Documents\Visual Studio 2015\Projects\AdvancedInvestigate\AdvancedInvestigate\obj\Debug\AdvancedInvestigate.dll
+C:\Users\Harry\Documents\Visual Studio 2015\Projects\AdvancedInvestigate\AdvancedInvestigate\obj\Debug\AdvancedInvestigate.pdb
