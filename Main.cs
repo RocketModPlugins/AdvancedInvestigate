@@ -17,7 +17,7 @@ namespace AdvancedInvestigate
         {
             Instance = this;
 
-            Logger.Log("LAODADEGFEF");
+            Logger.Log("Plugin Loaded");
         }
 
         protected override void Unload()
